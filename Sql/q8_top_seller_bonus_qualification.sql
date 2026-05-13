@@ -1,4 +1,18 @@
---Top Sellers 
+/*
+====================================================
+QUESTION 8: TOP SELLER BONUS QUALIFICATION
+====================================================
+
+Business Objective:
+Identify the top-performing sellers in 2024 based on
+revenue generation, completed orders, and customer
+ratings to determine bonus qualification eligibility.
+
+Business Focus:
+- Seller performance evaluation
+- Incentive qualification analysis
+- Revenue contribution assessment
+*/
 
 WITH order_revenue AS (
     SELECT 
