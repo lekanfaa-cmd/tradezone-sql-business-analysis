@@ -1,4 +1,18 @@
--- Q7: Review Ratings and Sales Performance
+/*
+====================================================
+QUESTION 7: REVIEW RATINGS & SALES PERFORMANCE
+====================================================
+
+Business Objective:
+Group products by average customer review ratings and
+evaluate how product ratings influence total revenue
+and average product pricing.
+
+Business Focus:
+- Product quality perception
+- Customer satisfaction impact
+- Ratings-to-revenue relationship
+*/
 
 WITH product_ratings AS (
     SELECT 
