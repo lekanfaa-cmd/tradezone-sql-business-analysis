@@ -1,4 +1,18 @@
--- Q5: Customer Spend Segmentation
+/*
+====================================================
+QUESTION 5: CUSTOMER SPEND SEGMENTATION
+====================================================
+
+Business Objective:
+Segment customers into High, Medium, and Low spenders
+based on total spending in 2024 and evaluate each
+segment’s contribution to total revenue.
+
+Business Focus:
+- Customer value segmentation
+- Revenue contribution analysis
+- Customer spending behavior
+*/
 
 WITH customer_spend AS (
     SELECT 
