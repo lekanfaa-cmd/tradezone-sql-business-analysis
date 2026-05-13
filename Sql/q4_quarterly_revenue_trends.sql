@@ -1,4 +1,18 @@
--- Quarterly Revenue Trends & Growth
+/*
+====================================================
+QUESTION 4: QUARTERLY REVENUE TRENDS
+====================================================
+
+Business Objective:
+Compare quarterly revenue performance across 2023
+and 2024 by evaluating total revenue, average order
+value, and total order volume.
+
+Business Focus:
+- Revenue growth trends
+- Seasonal business performance
+- Quarterly performance comparison
+*/
 
 WITH quarterly_data AS (
     SELECT 
