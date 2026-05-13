@@ -182,11 +182,6 @@ tradezone-sql-business-analysis/
 ├── report/
 │     └── analyst_memo.pdf
 │
-├── images/
-│     ├── schema_overview.png
-│     ├── query_results_preview.png
-│     └── business_findings.png
-│
 └── dataset/
       └── cleaned_database_dump.sql
 ```
