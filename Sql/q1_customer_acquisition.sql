@@ -1,4 +1,19 @@
--- Q1: Customer Acquisition & 30-Day Conversion
+/*
+====================================================
+QUESTION 1: CUSTOMER ACQUISITION & 30-DAY CONVERSION
+====================================================
+
+Business Objective:
+Identify the top 5 states by number of new customer
+sign-ups in 2024 and determine the percentage of
+customers who completed at least one purchase within
+their first 30 days after registration.
+
+Business Focus:
+- Customer acquisition effectiveness
+- Early customer conversion performance
+- Regional growth opportunities
+*/
 
 WITH new_customers AS (
     SELECT customer_id, state, signup_date
