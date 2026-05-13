@@ -1,5 +1,18 @@
--- Q2: Top 10 Products by Revenue in 2024
+/*
+====================================================
+QUESTION 2: PRODUCT PERFORMANCE
+====================================================
 
+Business Objective:
+Identify the top 10 products by total revenue generated
+in 2024, including product category, total revenue,
+and total number of orders.
+
+Business Focus:
+- Revenue-driving products
+- Product category performance
+- Sales concentration analysis
+*/
 SELECT 
     p.product_id,
     p.product_name,
