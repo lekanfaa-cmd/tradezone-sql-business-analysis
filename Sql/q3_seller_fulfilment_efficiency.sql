@@ -1,4 +1,19 @@
--- Finding top 20 sellers
+/*
+====================================================
+QUESTION 3: SELLER FULFILMENT EFFICIENCY
+====================================================
+
+Business Objective:
+Calculate the average delivery fulfilment time for
+each seller and identify the top 20 fastest-performing
+sellers among those with at least 20 completed orders.
+
+Business Focus:
+- Seller operational efficiency
+- Delivery performance analysis
+- Customer satisfaction indicators
+*/
+
 SELECT 
     s.seller_id,
     s.seller_name,
