@@ -1,4 +1,18 @@
---Payment Method Preferences by State
+/*
+====================================================
+QUESTION 6: PAYMENT METHOD PREFERENCES BY STATE
+====================================================
+
+Business Objective:
+Analyze customer payment preferences across states by
+measuring transaction count and transaction value for
+each payment method.
+
+Business Focus:
+- Regional payment behavior
+- Transaction channel analysis
+- Customer payment preferences
+*/
 
 WITH payment_summary AS (
     SELECT 
